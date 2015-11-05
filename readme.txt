@@ -4,3 +4,4 @@ git has a mutable index callde stage
 my stupid boss still prefers svn
 create new branch
 create new branch is $ simple
+bibi
